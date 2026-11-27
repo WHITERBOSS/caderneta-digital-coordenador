@@ -6,6 +6,7 @@
 - **Equipa:** Orlando Cumandala (`@WHITERBOSS`), Augusto Nangayafina (`@N4ngasCoder`), Sabino Gaspar (`@sabino-gaspar` — Product Owner).
 - **Issues associadas à Sprint 1:**
   - `#5` — Configurar repositório, README.md e documentação base
+  - `#10` trata do levantamento de entidades e requisitos de ocorrências disciplinares
 
 ## 2. Reuniões Diárias
 ### Dia 1 — 24/11/2026
