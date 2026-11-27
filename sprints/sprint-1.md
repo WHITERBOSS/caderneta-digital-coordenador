@@ -1,7 +1,8 @@
 # Sprint 1 (24 a 27 de Novembro de 2026 — Semanas Simuladas 1 e 2)
 
 ## 1. Planeamento da Sprint
-- **Objectivo da Sprint 1:** Criar a estrutura inicial do repositório, definir o acordo de trabalho (`processo.md`), alinhar os papéis da equipa e iniciar o registo da sprint no GitHub.
+- **Objectivo da Sprint 1:** : Criar a estrutura inicial do repositório, definir o acordo de trabalho (`processo.md`), alinhar os papéis e responsabilidades da equipa, iniciar o registo da sprint no GitHub e realizar o levantamento e a análise dos principais elementos do domínio do sistema, estabelecendo uma base sólida para o desenvolvimento nas próximas sprints.
+
 - **Equipa:** Orlando Cumandala (`@WHITERBOSS`), Augusto Nangayafina (`@N4ngasCoder`), Sabino Gaspar (`@sabino-gaspar` — Product Owner).
 - **Issues associadas à Sprint 1:**
   - `#5` — Configurar repositório, README.md e documentação base
