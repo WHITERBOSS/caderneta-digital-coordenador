@@ -45,7 +45,7 @@
 - **Retrospectiva:** O arranque efetivo de registo concentrou-se no dia 27. Para a Sprint 2, o foco é manter registos diários curtos, refinar o *Product Backlog* com o Product Owner e garantir revisões por pull request antes do merge.
 
 ## 4. Medidas de Fluxo (Fecho da Sprint 1)
-- **WIP máximo atingido:** A definir conforme o estado das colunas no quadro no fecho.
-- **Débito (itens concluídos na sprint):** `1` se a issue `#5` for fechada via `Closes #5` no merge de hoje; caso contrário, `0`.
-- **Idade do item mais antigo ainda em curso:** Ver quantos dias a issue `#5` ficou aberta até ao fim da sprint (se ainda não tiver fechado).
-- **Tempo de ciclo de 3 issues concluídas:** Ainda não dá para calcular porque não fechámos 3 issues nesta sprint.
+- **WIP máximo atingido:** 2 (issues `#5` e `#10` em curso na Sprint 1).
+- **Débito (itens concluídos na sprint):** 2 (issues `#5` e `#10` concluídas e fechadas via PR).
+- **Idade do item mais antigo ainda em curso:** 0 dias (sem itens em aberto no fecho da sprint).
+- **Tempo de ciclo de 3 issues concluídas:** Não aplicável nesta sprint (são necessárias pelo menos 3 issues concluídas para calcular esta média).
