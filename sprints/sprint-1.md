@@ -31,7 +31,12 @@
 - **Augusto Nangayafina (`@N4ngasCoder`):**
   - *A preencher pelo membro na sua branch (registo do dia e revisão de pull request).*
 - **Sabino Gaspar (`@sabino-gaspar` — Product Owner):**
-  - *A preencher pelo membro na sua branch (alinhamento do Product Backlog, critérios de aceitação e revisão de pull request).*
+    
+     - Fiz: Analisei as necessidades iniciais da Caderneta Digital e identifiquei as principais entidades do sistema.
+
+     - Vou fazer: Documentar o levantamento das entidades no ficheiro docs/entidades.md numa branch própria, abrir o Pull Request para revisão e fechar a issue correspondente.
+     
+     - Impedimentos: Nenhum.
 
 ## 3. Revisão e Retrospectiva (27/11/2026)
 - **Revisão:** Repositório criado, `README.md` em atualização, `processo.md` e registo inicial da Sprint 1 preparados; papel de Product Owner enquadrado para priorização e clarificação do *Product Backlog*.
